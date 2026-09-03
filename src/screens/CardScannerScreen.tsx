@@ -464,7 +464,7 @@ const styles = StyleSheet.create({
   },
 
   cameraDim: {
-    ...StyleSheet.absoluteFillObject,
+    ...StyleSheet.absoluteFill,
 
     backgroundColor:
       'rgba(18,14,11,0.18)',
